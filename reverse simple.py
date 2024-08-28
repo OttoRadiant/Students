@@ -1,3 +1,3 @@
 x=345678
-x.reverse()
+x.reverse() #Inbuilt method
 print(x)
